@@ -24,3 +24,4 @@ Dashboard mein niche di gayi pramukh cheezein shamil hain:
 1.  Is repository ko clone karein.
 2.  `.pbix` file ko Power BI Desktop mein open karein.
 3.  Data filters ka use karke alag-alag categories aur brands ko explore karein.
+<img width="956" height="562" alt="image" src="https://github.com/user-attachments/assets/a89c63ae-c977-4a0b-9f20-4324558e3171" />
